@@ -1,19 +1,2 @@
 # moj-muzej
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Aplikacija "Moji muzeji" bi sadržavala muzeje na području Istre. Korisnik će se morati prijaviti za korištenje aplikacije. Aplikacija bi sadržavala opise i podjele muzeja. Sadržavala bi mogućnost komentiranja i brisanja komentara određenog muzeja. Te bodovanje muzeja. Aplikacija će omogućavati kupovanje ili rezerviranje karata, te plaćanje karata. Aplikacija ima admina, koji može dodavati muzeje, brisati ih, ima pregled rezervacija..
